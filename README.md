@@ -10,7 +10,7 @@ Inside AllianceMatches folder are multiple folders:
 
 - DriverControlOnly (DCO)
 - FullControl (FC)
-- AutonomousOnly (AO)
+- AutonomousOnly (AUTON)
 
 When labelling the file, the following format [SEASONCODE]-[FOLDERCODE]-[DD.MM.YY]-[VERSION NO. FOR THAT DAY]
 
