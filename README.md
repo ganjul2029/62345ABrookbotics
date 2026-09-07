@@ -12,7 +12,7 @@ Inside AllianceMatches folder are multiple folders:
 - FullControl (FC)
 - AutonomousOnly (AO)
 
-When labelling the file, the following format [SEASONCODE]-[FOLDERCODE]-[DD.MM.YY]-[VERSION NO.]
+When labelling the file, the following format [SEASONCODE]-[FOLDERCODE]-[DD.MM.YY]-[VERSION NO. FOR THAT DAY]
 
 VEX OVERRIDE SEASON CODE: OVR
 
