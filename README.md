@@ -16,4 +16,6 @@ When labelling the file, the following format [SEASONCODE]-[FOLDERCODE]-[DD.MM.Y
 
 VEX OVERRIDE SEASON CODE: OVR
 
+Skills Auton FolderCode: SKAUTON
+
 Example for a DCO Code on the 7th of Sept: OVR-DCO-7.9.26-V1
